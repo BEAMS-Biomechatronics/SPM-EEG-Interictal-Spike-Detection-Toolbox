@@ -1,0 +1,25 @@
+SpikeDet, a SPM EEG Spike detection toolbox, allows to detect all spikes 
+in an EEG record by using a fully automated method described in this paper.
+
+	Nonclercq, A., Foulon, M., Verheulpen, D., De Cock, C., Buzatu, M., Mathys, P., Van Bogaert, P. 
+	Cluster-based spike detection algorithm adapts to interpatient and intrapatient variation 
+	in spike morphology.
+	Journal of Neuroscience Methods, 2012, 210(2), 259–265. doi:10.1016/j.jneumeth.2012.07.015 
+
+Copyright (C) 2016 ULB - Antoine Nonclercq (anoncler@ulb.ac.be) & Rudy Ercek (rercek@ulb.ac.be)
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+See file gpl-2.0.txt
