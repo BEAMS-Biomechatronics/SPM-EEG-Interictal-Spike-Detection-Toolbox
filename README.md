@@ -7,6 +7,7 @@ We propose a fully automated method of interictal spike detection that adapts to
 
 ## Licence
 If you use this toolbox for a publication (in a journal, in a conference, etc.), please cite both related publications: [Nonclercq2012] and [Nonclercq2009]. 
+
 As SPM, the license attached to this toolbox is GPL v2, see https://www.gnu.org/licenses/gpl-2.0.txt. 
 From https://www.gnu.org/licenses/gpl-2.0.html, it implies: *This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; 
 either version 2 of the License, or (at your option) any later version.*
